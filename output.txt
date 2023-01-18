@@ -1,0 +1,109 @@
+Total number of Universities => 100
+Available countries => Jordan, Palestine, Australia, Canada, China, Denmark, France, Germany, Israel, Japan, Netherlands, Norway, Singapore, South Korea, Sweden, Switzerland, Taiwan, United Kingdom, USA, Egypt
+Available Continents => Asia, Australia, North America, Europe, Africa
+At international rank => 1 the university name is => Harvard University
+At international rank => 2 the university name is => Massachusetts Institute of Technology
+At international rank => 3 the university name is => Stanford University
+At international rank => 6 the university name is => Princeton University
+At international rank => 7 the university name is => Columbia University
+At international rank => 8 the university name is => University of Chicago
+At international rank => 9 the university name is => University of Pennsylvania
+At international rank => 10 the university name is => Yale University
+At international rank => 11 the university name is => California Institute of Technology
+At international rank => 12 the university name is => University of California/ Berkeley
+At international rank => 14 the university name is => Cornell University
+At international rank => 15 the university name is => University of Michigan/ Ann Arbor
+At international rank => 16 the university name is => Johns Hopkins University
+At international rank => 17 the university name is => Northwestern University
+At international rank => 18 the university name is => University of California/ Los Angeles
+At international rank => 20 the university name is => Duke University
+At international rank => 22 the university name is => University of Illinois at Urbana–Champaign
+At international rank => 23 the university name is => University of Washington - Seattle
+At international rank => 25 the university name is => University of Wisconsin–Madison
+At international rank => 26 the university name is => New York University
+At international rank => 33 the university name is => University of Texas at Austin
+At international rank => 34 the university name is => University of California/ San Diego
+At international rank => 38 the university name is => University of California/ San Francisco
+At international rank => 39 the university name is => University of North Carolina at Chapel Hill
+At international rank => 40 the university name is => Dartmouth College
+At international rank => 46 the university name is => University of Minnesota - Twin Cities
+At international rank => 47 the university name is => Washington University in St. Louis
+At international rank => 49 the university name is => Rockefeller University
+At international rank => 50 the university name is => Rutgers University–New Brunswick
+At international rank => 51 the university name is => University of Southern California
+At international rank => 52 the university name is => University of California/ Davis
+At international rank => 53 the university name is => Vanderbilt University
+At international rank => 54 the university name is => Pennsylvania State University
+At international rank => 56 the university name is => Ohio State University
+At international rank => 61 the university name is => Purdue University
+At international rank => 62 the university name is => University of Texas Southwestern Medical Center
+At international rank => 66 the university name is => Brown University
+At international rank => 68 the university name is => University of Colorado Boulder
+At international rank => 69 the university name is => University of Virginia
+At international rank => 72 the university name is => University of Pittsburgh
+At international rank => 74 the university name is => Texas A&M University/ College Station
+At international rank => 75 the university name is => University of Maryland/ College Park
+At international rank => 76 the university name is => Georgia Institute of Technology
+At international rank => 82 the university name is => University of California/ Irvine
+At international rank => 83 the university name is => University of Rochester
+At international rank => 85 the university name is => Carnegie Mellon University
+At international rank => 86 the university name is => University of Florida
+At international rank => 93 the university name is => University of Arizona
+At international rank => 94 the university name is => Boston University
+At international rank => 95 the university name is => University of California/ Santa Barbara
+At national rank => 1 the university name is => Harvard University
+At national rank => 2 the university name is => Massachusetts Institute of Technology
+At national rank => 3 the university name is => Stanford University
+At national rank => 4 the university name is => Princeton University
+At national rank => 5 the university name is => Columbia University
+At national rank => 6 the university name is => University of Chicago
+At national rank => 7 the university name is => University of Pennsylvania
+At national rank => 8 the university name is => Yale University
+At national rank => 9 the university name is => California Institute of Technology
+At national rank => 10 the university name is => University of California/ Berkeley
+At national rank => 11 the university name is => Cornell University
+At national rank => 12 the university name is => University of Michigan/ Ann Arbor
+At national rank => 13 the university name is => Johns Hopkins University
+At national rank => 14 the university name is => Northwestern University
+At national rank => 15 the university name is => University of California/ Los Angeles
+At national rank => 16 the university name is => Duke University
+At national rank => 17 the university name is => University of Illinois at Urbana–Champaign
+At national rank => 18 the university name is => University of Washington - Seattle
+At national rank => 19 the university name is => University of Wisconsin–Madison
+At national rank => 20 the university name is => New York University
+At national rank => 21 the university name is => University of Texas at Austin
+At national rank => 22 the university name is => University of California/ San Diego
+At national rank => 23 the university name is => University of California/ San Francisco
+At national rank => 24 the university name is => University of North Carolina at Chapel Hill
+At national rank => 25 the university name is => Dartmouth College
+At national rank => 26 the university name is => University of Minnesota - Twin Cities
+At national rank => 27 the university name is => Washington University in St. Louis
+At national rank => 28 the university name is => Rockefeller University
+At national rank => 29 the university name is => Rutgers University–New Brunswick
+At national rank => 30 the university name is => University of Southern California
+At national rank => 31 the university name is => University of California/ Davis
+At national rank => 32 the university name is => Vanderbilt University
+At national rank => 33 the university name is => Pennsylvania State University
+At national rank => 34 the university name is => Ohio State University
+At national rank => 35 the university name is => Purdue University
+At national rank => 36 the university name is => University of Texas Southwestern Medical Center
+At national rank => 37 the university name is => Brown University
+At national rank => 38 the university name is => University of Colorado Boulder
+At national rank => 39 the university name is => University of Virginia
+At national rank => 40 the university name is => University of Pittsburgh
+At national rank => 41 the university name is => Texas A&M University/ College Station
+At national rank => 42 the university name is => University of Maryland/ College Park
+At national rank => 43 the university name is => Georgia Institute of Technology
+At national rank => 44 the university name is => University of California/ Irvine
+At national rank => 45 the university name is => University of Rochester
+At national rank => 46 the university name is => Carnegie Mellon University
+At national rank => 47 the university name is => University of Florida
+At national rank => 48 the university name is => University of Arizona
+At national rank => 49 the university name is => Boston University
+At national rank => 50 the university name is => University of California/ Santa Barbara
+The average score => 86.6%
+The relative score to the top university in North America is => (86.59 / 100.0) x 100% = 86.6%
+The capital is => Washington
+The universities that contain the capital name => 
+#1 University of Washington - Seattle
+#2 Washington University in St. Louis
